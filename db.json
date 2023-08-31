@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 4,
@@ -28,13 +28,25 @@
       "id": 5,
       "name": "Swiss Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "orange",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "leche flan",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 15
     }
   ]
 }
